@@ -1,0 +1,16 @@
+﻿  CCircle.cpp
+  CDrawShape.cpp
+  CMathShape.cpp
+  CRectangle.cpp
+C:\Users\user\Desktop\projects\OOD\main\main\CRectangle.h(8,9): error C3668: CRectangle::GetArea: метод со спецификатором переопределения "override" не переопределяет какие-либо методы базового класса
+C:\Users\user\Desktop\projects\OOD\main\main\CRectangle.h(9,9): error C3668: CRectangle::GetPerimeter: метод со спецификатором переопределения "override" не переопределяет какие-либо методы базового класса
+C:\Users\user\Desktop\projects\OOD\main\main\CRectangle.h(10,6): error C3668: CRectangle::Draw: метод со спецификатором переопределения "override" не переопределяет какие-либо методы базового класса
+  CShape.cpp
+  CShapeDecorator.cpp
+C:\Users\user\Desktop\projects\OOD\main\main\CShapeDecorator.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  CTriangle.cpp
+C:\Users\user\Desktop\projects\OOD\main\main\CTriangle.h(8,9): error C3668: CTriangle::GetArea: метод со спецификатором переопределения "override" не переопределяет какие-либо методы базового класса
+C:\Users\user\Desktop\projects\OOD\main\main\CTriangle.h(9,9): error C3668: CTriangle::GetPerimeter: метод со спецификатором переопределения "override" не переопределяет какие-либо методы базового класса
+C:\Users\user\Desktop\projects\OOD\main\main\CTriangle.h(10,6): error C3668: CTriangle::Draw: метод со спецификатором переопределения "override" не переопределяет какие-либо методы базового класса
+  main.cpp
+  Создание кода...
